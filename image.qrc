@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/foldOff.png</file>
+        <file>images/foldOn.png</file>
+        <file>images/ico.ico</file>
+        <file>images/ico.png</file>
+        <file>images/listView.png</file>
+        <file>images/locked.png</file>
+        <file>images/more.png</file>
+        <file>images/new.png</file>
+        <file>images/search.png</file>
+        <file>images/skin.png</file>
+        <file>images/sort.png</file>
+        <file>images/tileView.png</file>
+        <file>images/top.png</file>
+        <file>images/unlock.png</file>
+        <file>ico.ico</file>
+        <file>images/controls/checked.png</file>
+        <file>images/controls/decreasing.png</file>
+        <file>images/controls/file-type.png</file>
+        <file>images/controls/incremental.png</file>
+        <file>images/controls/modification-date.png</file>
+        <file>images/controls/name.png</file>
+        <file>images/controls/size.png</file>
+        <file>images/controls/uncheck.png</file>
+        <file>images/excel.png</file>
+        <file>images/ppt.png</file>
+        <file>images/word.png</file>
+        <file>images/traymenu/quit.png</file>
+        <file>images/monitor/background.png</file>
+        <file>images/gif/bkg1.gif</file>
+        <file>images/gif/bkg2.gif</file>
+        <file>images/gif/bkg3.gif</file>
+        <file>images/addTODO.png</file>
+        <file>images/delTODO.png</file>
+        <file>images/see.png</file>
+        <file>images/filewin/add.png</file>
+        <file>images/filewin/del.png</file>
+    </qresource>
+</RCC>
