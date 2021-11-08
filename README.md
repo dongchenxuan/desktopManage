@@ -16,6 +16,17 @@ Base on Qt 5.9.1 (MSVC 2015, 32bit)
 -    |————readme 
 - |——testFile 
 - |——testImsges
+
+cpp文件  
+- commemorial.cpp 代办插件集合（日常代码 + 实时天气）  
+- defaultlattice.cpp 默认格子（放置应用程序的格子）  
+- filelattice.cpp 文档格子（放置doc、ppt、xls文档）  
+- filewindow.cpp 文档窗口（添加应用/文档目录的窗口）  
+- main.cpp 主函数（用于加载各类窗体）  
+- monit.cpp 监控窗体（用于放置CPU、RAM的占用情况）  
+- monitcpu.cpp 监控CPU窗体（取得CPU占用量，并绘制相应水波饼图）  
+- monitram.cpp 监控RAM窗体（取得RAM占用量，并绘制相应水波饼图）  
+- todo.cpp 代办窗体  
 ## 架构图
 在设计过程中，主要划分了基础功能和扩展功能两大板块。具体的架构图如图所示。
 - 基础功能包括对文件（夹）的基础操作，比如文件（夹）新建和移动。在应用图标功能中，分为图标大小调整、图标排序以及文档归类。  
