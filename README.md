@@ -6,16 +6,16 @@
 Qt Creator 4.3.1
 Base on Qt 5.9.1 (MSVC 2015, 32bit)
 ## 目录结构
-- |——bin (配置文件)
-- |——images (图片资源)
--    |————controls 
--    |————filewin
--    |————gif 
--    |————monitor
--    |————traymenu 
--    |————readme 
-- |——testFile 
-- |——testImsges
+|——bin (配置文件)  
+|——images (图片资源)  
+   |————controls  
+   |————filewin  
+   |————gif  
+   |————monitor  
+   |————traymenu  
+   |————readme  
+|——testFile  
+|——testImsges  
 
 cpp文件  
 - commemorial.cpp 代办插件集合（日常代码 + 实时天气）  
